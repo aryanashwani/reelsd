@@ -365,7 +365,7 @@
                };
                b(m, e).then(n, n)
             }))
-         }, window.__NEXT_PRELOADREADY = w.preloadReady;
+         }, window.__next_PRELOADREADY = w.preloadReady;
          var x = w;
          t.default = x
       },
@@ -660,7 +660,7 @@
          t.default = m
       },
       5301: function (e, t, n) {
-         (window.__NEXT_P = window.__NEXT_P || []).push(["/", function () {
+         (window.__next_P = window.__next_P || []).push(["/", function () {
             return n(2562)
          }])
       },

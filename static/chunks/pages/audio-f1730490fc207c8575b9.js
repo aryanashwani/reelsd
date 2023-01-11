@@ -369,7 +369,7 @@
           t.default = p
        },
        5558: function (e, t, n) {
-          (window.__NEXT_P = window.__NEXT_P || []).push(["/audio", function () {
+          (window.__next_P = window.__next_P || []).push(["/audio", function () {
              return n(2522)
           }])
        },

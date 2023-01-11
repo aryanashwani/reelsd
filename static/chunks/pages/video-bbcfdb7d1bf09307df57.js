@@ -449,7 +449,7 @@
           t.default = p
        },
        8468: function (e, t, n) {
-          (window.__NEXT_P = window.__NEXT_P || []).push(["/video", function () {
+          (window.__next_P = window.__next_P || []).push(["/video", function () {
              return n(2070)
           }])
        },

@@ -473,7 +473,7 @@
              m = h
        },
        2351: function (e, t, n) {
-          (window.__NEXT_P = window.__NEXT_P || []).push(["/photo", function () {
+          (window.__next_P = window.__next_P || []).push(["/photo", function () {
              return n(4836)
           }])
        },

@@ -450,7 +450,7 @@
           t.default = p
        },
        5522: function (e, t, n) {
-          (window.__NEXT_P = window.__NEXT_P || []).push(["/facebook", function () {
+          (window.__next_P = window.__next_P || []).push(["/facebook", function () {
              return n(6334)
           }])
        },
