@@ -376,7 +376,7 @@
                                   children: "Want to Download Audio ",
                                 }),
                                 (0, c.jsx)(l.default, {
-                                  href: "/audio/",
+                                  href: "audio/",
                                   children: (0, c.jsx)("a", {
                                     className: "text-blue-600",
                                     children: "Click here",

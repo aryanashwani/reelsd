@@ -81,9 +81,9 @@
                      href: "/",
                      children: (0, l.jsxs)("a", {
                         className: "text-gray-900 dark:text-white pr-6 py-4 pl-2 font-bold",
-                        children: [" ", "Reelsaver", (0, l.jsx)("span", {
+                        children: [" ", "Reelsaver.Net", (0, l.jsx)("span", {
                            className: "text-blue-500 font-bold",
-                           children: ".Net"
+                           children: ""
                         })]
                      })
                   })

@@ -214,7 +214,7 @@
                                      method: "GET",
                                      headers: o,
                                      redirect: "follow"
-                                  }, i = "https://api.instavideosave.com/allinone", n.includes("/audio/") && (i = "https://audioinsta.glitch.me/allinone"), e.next = 10, fetch(i, r).then((function (e) {
+                                  }, i = "https://api.instavideosave.com/allinone", n.includes("audio/") && (i = "https://audioinsta.glitch.me/allinone"), e.next = 10, fetch(i, r).then((function (e) {
                                      return e.json()
                                   })).catch((function () {
                                      return "link"
