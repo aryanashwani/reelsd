@@ -68,10 +68,10 @@
       );
     }),
     (t.u = function (e) {
-      return "__next/chunks/" + e + ".5c9aa818b78582e29597.js";
+      return "static/chunks/" + e + ".5c9aa818b78582e29597.js";
     }),
     (t.miniCssF = function (e) {
-      return "__next/css/555de2d93a5606f4c5c9.css";
+      return "static/css/555de2d93a5606f4c5c9.css";
     }),
     (t.o = function (e, n) {
       return Object.prototype.hasOwnProperty.call(e, n);

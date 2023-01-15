@@ -214,7 +214,7 @@
                                      method: "GET",
                                      headers: o,
                                      redirect: "follow"
-                                  }, i = "https://api.instavideosave.com/allinone", n.includes("audio/") && (i = "https://audioinsta.glitch.me/allinone"), e.next = 10, fetch(i, r).then((function (e) {
+                                  }, i = "https://api.instavideosave.com/allinone", n.includes("/audio/") && (i = "https://audioinsta.glitch.me/allinone"), e.next = 10, fetch(i, r).then((function (e) {
                                      return e.json()
                                   })).catch((function () {
                                      return "link"
@@ -369,7 +369,7 @@
           t.default = p
        },
        5558: function (e, t, n) {
-          (window.__next_P = window.__next_P || []).push(["/audio", function () {
+          (window.__NEXT_P = window.__NEXT_P || []).push(["/audio", function () {
              return n(2522)
           }])
        },

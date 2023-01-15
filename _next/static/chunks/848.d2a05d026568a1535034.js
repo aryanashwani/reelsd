@@ -72,7 +72,7 @@
                            className: " mr-1 leading-tight",
                            children: "Want to Download Audio "
                         }), (0, n.jsx)(a.default, {
-                           href: "audio/",
+                           href: "/audio/",
                            children: (0, n.jsx)("a", {
                               className: "text-blue-600",
                               children: "Click here"

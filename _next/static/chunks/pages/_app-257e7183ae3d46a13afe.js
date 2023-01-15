@@ -181,7 +181,7 @@
           }
        },
        6363: function (e, t, n) {
-          (window.__next_P = window.__next_P || []).push(["/_app", function () {
+          (window.__NEXT_P = window.__NEXT_P || []).push(["/_app", function () {
              return n(1476)
           }])
        },

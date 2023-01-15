@@ -460,8 +460,8 @@
              }
              return e
           }
-          var j = JSON.parse(document.getElementById("__next_DATA__").textContent);
-          window.__next_DATA__ = j;
+          var j = JSON.parse(document.getElementById("__NEXT_DATA__").textContent);
+          window.__NEXT_DATA__ = j;
           t.version = "11.1.4";
           var A = function (e) {
                 return [].slice.call(e)
@@ -494,11 +494,11 @@
                    n = t[1];
                 return K.routeLoader.onEntrypoint(r, n)
              };
-          window.__next_P && window.__next_P.map((function (e) {
+          window.__NEXT_P && window.__NEXT_P.map((function (e) {
              return setTimeout((function () {
                 return Y(e)
              }), 0)
-          })), window.__next_P = [], window.__next_P.push = Y;
+          })), window.__NEXT_P = [], window.__NEXT_P.push = Y;
           var J, Z, ee, te, re = w.default(),
              ne = document.getElementById("__next");
           t.router = Z, re.getIsSsr = function () {
@@ -600,11 +600,11 @@
                       case 29:
                          e.prev = 29, e.t1 = e.catch(3), r = e.t1;
                       case 32:
-                         if (!window.__next_PRELOADREADY) {
+                         if (!window.__NEXT_PRELOADREADY) {
                             e.next = 36;
                             break
                          }
-                         return e.next = 36, window.__next_PRELOADREADY(q);
+                         return e.next = 36, window.__NEXT_PRELOADREADY(q);
                       case 36:
                          return t.router = Z = O.createRouter(N, D, Q, {
                             initialProps: T,
@@ -2101,9 +2101,9 @@
                       if (e.notFound) return {
                          notFound: T
                       };
-                      throw new Error("Failed to load __next props")
+                      throw new Error("Failed to load static props")
                    }));
-                   throw new Error("Failed to load __next props")
+                   throw new Error("Failed to load static props")
                 }
                 return r.json()
              }))
@@ -2161,8 +2161,8 @@
                    Component: l,
                    styleSheets: []
                 }, this.events = e.events, this.pageLoader = s, this.pathname = t, this.query = r;
-                var x = d.isDynamicRoute(t) && self.__next_DATA__.autoExport;
-                if (this.asPath = x ? t : n, this.basePath = "", this.sub = y, this.clc = null, this._wrapApp = f, this.isSsr = !0, this.isFallback = g, this.isReady = !!(self.__next_DATA__.gssp || self.__next_DATA__.gip || self.__next_DATA__.appGip && !self.__next_DATA__.gsp || !x && !self.location.search), this.isPreview = !!_, this.isLocaleDomain = !1, "//" !== n.substr(0, 2)) {
+                var x = d.isDynamicRoute(t) && self.__NEXT_DATA__.autoExport;
+                if (this.asPath = x ? t : n, this.basePath = "", this.sub = y, this.clc = null, this._wrapApp = f, this.isSsr = !0, this.isFallback = g, this.isReady = !!(self.__NEXT_DATA__.gssp || self.__NEXT_DATA__.gip || self.__NEXT_DATA__.appGip && !self.__NEXT_DATA__.gsp || !x && !self.location.search), this.isPreview = !!_, this.isLocaleDomain = !1, "//" !== n.substr(0, 2)) {
                    var w = {
                       locale: b
                    };
@@ -2299,7 +2299,7 @@
                             case 106:
                                $ = t.sent;
                             case 107:
-                               return e.events.emit("beforeHistoryChange", a, b), this.changeState(r, o, a, i), i._h && "/_error" === L && 500 === (null === (v = self.__next_DATA__.props) || void 0 === v || null === (X = v.pageProps) || void 0 === X ? void 0 : X.statusCode) && (null === Y || void 0 === Y ? void 0 : Y.pageProps) && (Y.pageProps.statusCode = 500), ie = i.shallow && this.route === H, ce = null !== (ue = i.scroll) && void 0 !== ue ? ue : !ie, se = ce ? {
+                               return e.events.emit("beforeHistoryChange", a, b), this.changeState(r, o, a, i), i._h && "/_error" === L && 500 === (null === (v = self.__NEXT_DATA__.props) || void 0 === v || null === (X = v.pageProps) || void 0 === X ? void 0 : X.statusCode) && (null === Y || void 0 === Y ? void 0 : Y.pageProps) && (Y.pageProps.statusCode = 500), ie = i.shallow && this.route === H, ce = null !== (ue = i.scroll) && void 0 !== ue ? ue : !ie, se = ce ? {
                                   x: 0,
                                   y: 0
                                } : null, t.next = 116, this.set(H, L, I, _, $, null !== u && void 0 !== u ? u : se).catch((function (e) {
@@ -2452,7 +2452,7 @@
                                   pathname: r,
                                   query: o
                                }), i, d, this.locale)), e.next = 21, this._getData((function () {
-                                  return d ? y._get__nextData(v) : h ? y._getServerData(v) : y.getInitialProps(f, {
+                                  return d ? y._getStaticData(v) : h ? y._getServerData(v) : y.getInitialProps(f, {
                                      pathname: r,
                                      query: o,
                                      asPath: a,
@@ -2545,7 +2545,7 @@
                                break;
                             case 24:
                                return e.next = 26, Promise.all([this.pageLoader._isSsg(v).then((function (e) {
-                                  return !!e && y._get__nextData(y.pageLoader.getDataHref(t, s, !0, "undefined" !== typeof o.locale ? o.locale : y.locale))
+                                  return !!e && y._getStaticData(y.pageLoader.getDataHref(t, s, !0, "undefined" !== typeof o.locale ? o.locale : y.locale))
                                })), this.pageLoader[o.priority ? "loadPage" : "prefetch"](v)]);
                             case 26:
                             case "end":
@@ -2603,7 +2603,7 @@
                    }))
                 }
              }, {
-                key: "_get__nextData",
+                key: "_getStaticData",
                 value: function (e) {
                    var t = this,
                       r = new URL(e, window.location.href).href;

@@ -554,7 +554,7 @@
       t.default = p;
     },
     2697: function (e, t, r) {
-      (window.__next_P = window.__next_P || []).push([
+      (window.__NEXT_P = window.__NEXT_P || []).push([
         "/profile",
         function () {
           return r(2063);
