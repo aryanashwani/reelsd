@@ -376,7 +376,7 @@
                                   children: "Want to Download Audio ",
                                 }),
                                 (0, c.jsx)(l.default, {
-                                  href: "/audio/",
+                                  href: "audio/",
                                   children: (0, c.jsx)("a", {
                                     className: "text-blue-600",
                                     children: "Click here",
@@ -685,7 +685,7 @@
         m = h;
     },
     6071: function (e, t, n) {
-      (window.__NEXT_P = window.__NEXT_P || []).push([
+      (window.__next_P = window.__next_P || []).push([
         "/stories",
         function () {
           return n(7622);

@@ -365,7 +365,7 @@
                };
                b(m, e).then(n, n)
             }))
-         }, window.__NEXT_PRELOADREADY = w.preloadReady;
+         }, window.__next_PRELOADREADY = w.preloadReady;
          var x = w;
          t.default = x
       },
@@ -556,66 +556,66 @@
                            className: "text-2xl tracking-tight",
                            children: "Instagram Reels Video Download"
                         }), (0, h.jsx)("p", {
-                           children: "Instavideosave.net is an online free and fast tool which helps you to download instagram reels video or to save reels video to your device. You can save any reels videos to your phone or computer and view them offline anytime."
+                           children: "reelsaver.net allows you to download high quality Instagram Reels Video (download Instagram videos, download Reels videos, download IGTV videos, download Photo, Download Story). Just paste the Instagram link into the input box on the website to download any Instagram content.reelsaver.net is free and fast tool which helps you to download instagram reels to your device. You can download any reels videos to your phone or computer and view them offline anytime."
                         }), (0, h.jsx)("p", {
-                           children: "We do not require any information to access our tool, so you don't need to worry about providing your login details. Also we do not charge anything for using our service, this is lifetime free service, which can be used to download an unlimited amount of reels video."
+                           children: " Instagram story downloader is an excellent tool for those who wish to save and reuse stories."
                         }), (0, h.jsx)("p", {
                            children: (0, h.jsx)("strong", {
                               children: "Key features:"
                            })
                         }), (0, h.jsxs)("ul", {
                            children: [(0, h.jsx)("li", {
-                              children: "Original quality without watermark, which most of the tools out there can't."
+                              children: "Original quality video and Reels without watermark,"
                            }), (0, h.jsx)("li", {
-                              children: "Download Reels video in gallery on any device that you want: mobile, iPhone, iPad, PC, or tablet."
+                              children: "Download Reels video in gallery on any device that you want:"
                            }), (0, h.jsx)("li", {
-                              children: "Download Instagram reels by link using your browser: We want to keep things simple, so you don't need to download or install any software."
+                              children: "Reels downloader can download your favourite Instagram reels in High Quality."
                            }), (0, h.jsx)("li", {
-                              children: "It's always free. We only place some ads, which support maintaining our services, and further development."
+                              children: "It is always free. Minimal ads while your Instagram videos download."
                            })]
                         }), (0, h.jsx)("h3", {
                            children: "What is Instagram Reels?"
                         }), (0, h.jsx)("p", {
-                           children: "Instagram Reels is a new emerging short video platform after the launch of many short video sharing platforms. Instagram also added the concept of sharing videos up to 30 seconds in its App and officially named it Reels."
+                           children: "Instagram Reels is a new emerging short video platform. Instagram also added the concept of sharing videos up to 30 seconds."
                         }), (0, h.jsx)("h3", {
                            children: "How To download Instagram Reels video online?"
                         }), (0, h.jsx)("p", {
-                           children: "Our Instagram reels video viewer and downloader allows users to download Instagram reels video fast and free; it just took few seconds to fetch video from link and directly download it into gallery of your device. It is a super-fast Tool that takes less time to download reels from Instagram."
+                           children: "Our Instagram reels video viewer and downloader allows users to download Instagram reels and video fast and free; it just took few seconds to fetch video from the link and directly download it into gallery of your device."
                         }), (0, h.jsx)("p", {
-                           children: "Procedure to Download instagram reel using instavideosave.net:-"
+                           children: "Procedure to Download instagram reel using reelsaver.net:-"
                         }), (0, h.jsx)("p", {
-                           children: "Are you looking for a step-by-step guide on how to download Instagram Reels Video?"
+                           children: "how to download Instagram Reels Video?"
                         }), (0, h.jsx)("p", {
                            children: "Here's a quick and easy way to do it:"
                         }), (0, h.jsxs)("ol", {
                            children: [(0, h.jsx)("li", {
-                              children: "Choose the Reels video that you want to download."
+                              children: "Choose the Reels video and copy the link that you want to download."
                            }), (0, h.jsx)("li", {
                               children: "Copy link to the video."
                            }), (0, h.jsx)(u.default, {
-                              src: "/images/copylink.jpg",
-                              alt: "copy link from Instagram reels video",
-                              width: "600px",
-                              height: "368px"
+                              src: "",
+                              alt: "",
+                              width: "",
+                              height: ""
                            }), (0, h.jsx)("li", {
                               children: "Paste Url into input box."
                            }), (0, h.jsx)("li", {
                               children: 'Click "Download" button.'
                            }), (0, h.jsx)(u.default, {
-                              src: "/images/pastelink.jpg",
-                              alt: "download reels video online",
-                              width: "600px",
-                              height: "460px"
+                              src: "",
+                              alt: "",
+                              width: "",
+                              height: ""
                            }), (0, h.jsx)("li", {
                               children: 'Wait for the Video file to be processed & and then click on the "Download Video" button to save file to your device'
                            }), (0, h.jsx)(u.default, {
-                              src: "/images/getvideo.jpg",
-                              alt: "Instagram reels download",
-                              width: "600px",
-                              height: "460px"
+                              src: "",
+                              alt: "",
+                              width: "",
+                              height: ""
                            })]
                         }), (0, h.jsx)("h3", {
-                           children: "How To Copy Instagram Reels Video link/Url?"
+                           children: "How To Copy Instagram Reels Video link ?"
                         }), (0, h.jsxs)("ol", {
                            children: [(0, h.jsx)("li", {
                               children: "Open your Instagram app."
@@ -624,12 +624,12 @@
                            }), (0, h.jsx)("li", {
                               children: "Click Three dots : at the bottom of video, find Copy Link button."
                            }), (0, h.jsx)("li", {
-                              children: "Click on Copy Link button and the video url/link has been copied."
+                              children: "Click on Copy Link button and the video link has been copied."
                            })]
                         }), (0, h.jsx)("h3", {
                            children: "What is Reels video downloader for Instagram? "
                         }), (0, h.jsx)("p", {
-                           children: "We all know that Instagram doesn't allow you to download reels video or any content directly inside from the app or website, so reels video downloader tool is basically a substitute for who wants to download videos from instagram."
+                           children: "We all know that Instagram doesnt allow you to download reels video or any content directly inside from the app or website, so reels video downloader tool is used to download reels and video who wants to download videos from instagram."
                         }), (0, h.jsx)("h3", {
                            children: "How to download reels video with Original Hd Quality?"
                         }), (0, h.jsx)("p", {
@@ -650,8 +650,8 @@
                            children: "Downloading Reels videos is just a simple stuff, but when it comes to download private instagram reels this is little challenging. Instagram doesn't allow everyone to access private videos, photos or reels thatswhy instavideosave tool cannot able to extract or download private reels videos."
                         }), (0, h.jsxs)("p", {
                            children: [(0, h.jsx)("strong", {
-                              children: "DMCA:"
-                           }), " Instavideosave.net complies with 17 U.S.C. * 512 and the Digital Millennium Copyright Act (DMCA). It is our policy to respond to any infringement notices and take appropriate actions. If your copyrighted material has been posted on the site and you want this material removed."]
+                              children: ""
+                           }), " "]
                         })]
                      })]
                   })
@@ -660,7 +660,7 @@
          t.default = m
       },
       5301: function (e, t, n) {
-         (window.__NEXT_P = window.__NEXT_P || []).push(["/", function () {
+         (window.__next_P = window.__next_P || []).push(["/", function () {
             return n(2562)
          }])
       },

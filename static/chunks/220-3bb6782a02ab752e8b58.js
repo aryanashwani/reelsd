@@ -23,7 +23,7 @@
             }
             return n
          }
-         var c = "https://instavideosave.net",
+         var c = "https://Reelsaver.net",
             x = function (e) {
                var t = e.customMeta,
                   n = (0, a.useRouter)(),
@@ -58,7 +58,7 @@
                      content: r.type
                   }), (0, l.jsx)("meta", {
                      property: "og:site_name",
-                     content: "instavideosave.net"
+                     content: "Reelsaver.net"
                   }), (0, l.jsx)("meta", {
                      property: "og:description",
                      content: r.description
@@ -81,9 +81,9 @@
                      href: "/",
                      children: (0, l.jsxs)("a", {
                         className: "text-gray-900 dark:text-white pr-6 py-4 pl-2 font-bold",
-                        children: [" ", "InstaVideoSave", (0, l.jsx)("span", {
+                        children: [" ", "Reelsaver.Net", (0, l.jsx)("span", {
                            className: "text-blue-500 font-bold",
-                           children: ".Net"
+                           children: ""
                         })]
                      })
                   })
@@ -301,11 +301,11 @@
                return (0, l.jsxs)("div", {
                   className: "max-w-2xl m-auto",
                   children: [(0, l.jsx)("div", {
-                     className: "bg-blue-500 font-poppins text-white rounded-lg p-2 m-3",
+                     className: "bg-500 font-poppins text-white rounded-lg p-2 m-3",
                      children: (0, l.jsxs)("p", {
                         children: [(0, l.jsx)("b", {
-                           children: "Instavideosave.com/.net"
-                        }), " is not affiliated with Instagram\u2122 and not we host any of media on our servers all the media content is delivered through its orginal source and belongs to their respective owners."]
+                           children: ""
+                        }), " "]
                      })
                   }), (0, l.jsx)("hr", {}), (0, l.jsxs)("footer", {
                      className: "py-8 font-poppins m-auto text-sm ",
@@ -313,9 +313,9 @@
                         className: "max-w-5xl px-3 mx-auto text-center mb-4 font-bold text-xl",
                         children: (0, l.jsxs)("a", {
                            href: "/",
-                           children: [" InstaVideoSave", (0, l.jsx)("span", {
+                           children: [" Reelsaver.Net", (0, l.jsx)("span", {
                               className: "text-blue-500 font-bold",
-                              children: ".Net"
+                              children: ""
                            })]
                         })
                      }), (0, l.jsxs)("div", {
@@ -343,8 +343,8 @@
                         })]
                      }), " ", (0, l.jsxs)("div", {
                         className: "max-w-5xl px-1 mx-auto text-center text-xs",
-                        children: ["Made with", (0, l.jsx)("svg", {
-                           xmlns: "http://www.w3.org/2000/svg",
+                        children: ["", (0, l.jsx)("svg", {
+                           xmlns: "",
                            className: "h-6 w-6 text-blue-500 inline",
                            viewBox: "0 0 20 20",
                            fill: "currentColor",
@@ -353,12 +353,12 @@
                               d: "M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z",
                               clipRule: "evenodd"
                            })
-                        }), "in India"]
+                        }), ""]
                      }), (0, l.jsxs)("div", {
                         className: "max-w-5xl px-3 mx-auto text-center opacity-70 text-xs",
-                        children: ["\xa9 2020-2022 InstaVideoSave", (0, l.jsx)("span", {
+                        children: ["\xa9 2023 Reelsaver.Net", (0, l.jsx)("span", {
                            className: "text-blue-500 font-bold",
-                           children: ".Net"
+                           children: ""
                         })]
                      })]
                   }), " "]
